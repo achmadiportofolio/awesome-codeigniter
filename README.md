@@ -91,6 +91,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Spark Plug](https://github.com/rougin/spark-plug) - Another way to access CodeIgniter's instance.
 * [CodeIgniter-blockchain](https://github.com/mehdibo/Codeigniter-blockchain) - Library to use the Blockchain Wallet API
 * [CodeIgniter-recaptcha](https://github.com/mehdibo/Codeigniter-recaptcha) - Library to implement Google reCAPTCHA V2 
+* [CodeIgniter-HHMV](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc) - Modular Extensions makes the CodeIgniter PHP framework modular  
 
 ## Model
 * [CodeIgniter-MY_Model](https://github.com/avenirer/CodeIgniter-MY_Model) - The result of a lengthy tutorial about constructing a MY_Model.
